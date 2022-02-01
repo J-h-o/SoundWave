@@ -1,7 +1,7 @@
 
 # Soundwave - Music Streaming App
 
-It has been made from a collective of students from International Hellenic University - Serres Campus for the purpose of the lesson 
+International Hellenic University - Serres Campus for the purpose of the lesson 
 "Τεχνολογία Λογισμικού - Εργαστήριο" - "Software Technology - Lab".
 
 
